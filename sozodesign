@@ -1,0 +1,1 @@
+v=spf1 mx a include:spf.protection.outlook.com include:sparkpostmail.com include:spf.kashflow.com include:servers.mcsv.net -all
